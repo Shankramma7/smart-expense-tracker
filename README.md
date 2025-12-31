@@ -5,8 +5,7 @@ A full-stack expense tracking application built using **Cloudflare Workers**, **
 ---
 
 ## 🚀 Live Demo
-🔗 smart-expense-tracker.shankrammalingadahalli.workers.dev
-
+🔗(https://smart-expense-tracker.shankrammalingadahalli.workers.dev/login)
 ---
 
 ## 📌 Features
