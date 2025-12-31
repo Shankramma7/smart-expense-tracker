@@ -17,7 +17,27 @@
 	},
 	"observability": {
 		"enabled": true
-	}
+	},
+	"d1_databases": [
+		{
+			"binding": "expense_db",
+			"database_name": "expense_db",
+			"database_id": "52fedfcf-7b38-4227-b0b4-38b71febab43",
+			"remote": true
+		}
+	],
+	"ai": {
+  "binding": "AI"
+}
+,
+	"kv_namespaces": [
+		{
+			"binding": "USER_PREFSS",
+			"id": "604acbddfa6940a69a13bce749002f49",
+			"preview_id":"cd61174f888543c8bc38715f7de982f2",
+			"remote": true
+		}
+	]
 	/**
 	 * Smart Placement
 	 * https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
