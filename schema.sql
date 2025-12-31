@@ -1,10 +1,11 @@
+DROP TABLE IF EXISTS expenses;
+
 CREATE TABLE expenses (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
-  title TEXT,
-  amount REAL,
-  category TEXT,
-  expense_date TEXT,
+  title TEXT NOT NULL,
+  amount REAL NOT NULL,
+  category TEXT NOT NULL,
+  expense_date TEXT NOT NULL,
   status TEXT DEFAULT 'ACTIVE',
   created_at TEXT DEFAULT CURRENT_TIMESTAMP
 );
-
