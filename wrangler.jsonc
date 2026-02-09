@@ -22,7 +22,7 @@
 		{
 			"binding": "expense_db",
 			"database_name": "expense_db",
-			"database_id": "6a4dd097-8360-4fdf-b125-b81e0150675a",
+			"database_id": "1be802a6-3f7a-4e98-b14f-f9923a02129c",
 			"remote": true
 		}
 	],
@@ -33,7 +33,7 @@
 	"kv_namespaces": [
 		{
 			"binding": "USER_PREFSS",
-			"id": "23cc7cdc1dc44d26a86a2c739e46f7c9",
+			"id": "38af9efc97574eb28cdbecfc1345111a",
 			"preview_id":"04083f59254947338678a4d96c12190c",
 			"remote": true
 		}
